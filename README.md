@@ -1,4 +1,4 @@
-### Hello, I'm Keti :)  <img src="https://i.ibb.co/svs8g4fs/20250703-1541-Cozy-Pixel-Character-remix-01jz81c9fvep0b05k6zr8ftsdh.png" width="50" />
+### Hello, I'm Keti <img src="https://i.ibb.co/svs8g4fs/20250703-1541-Cozy-Pixel-Character-remix-01jz81c9fvep0b05k6zr8ftsdh.png" width="50" />
 
 ### Junior Software Engineer
 **Python | Flask | API Design | SQL | Power BI | DBT | Git | Rust (learning)**
