@@ -1,6 +1,6 @@
 ### Hello, I'm Keti <img src="https://i.ibb.co/svs8g4fs/20250703-1541-Cozy-Pixel-Character-remix-01jz81c9fvep0b05k6zr8ftsdh.png" width="50" />
 
-### Junior Software Engineer
+### Junior Data Engineer
 **Python | Flask | API Design | SQL | Power BI | DBT | Git | Rust (learning)**
 
 After 8 years of being in Advertising/Marketing, I decided to go to data first and then **to code** and stay there, because blending logic and creativity to solve meaningful problems is a celebration for my brain <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zaDI5MHozaHpjaWE2ZDVreGVjbGY0YjFheTVpZWp1MW56aml0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaEPzm3xgCf1SpURYw/giphy.gif" width="40" /> 
